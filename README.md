@@ -1,2 +1,3 @@
 # osmviewer
-osmdroid simple viewer (fullscreen)
+osmdroid simple offline viewer (fullscreen)
+(osmdroid 6.0.1)
