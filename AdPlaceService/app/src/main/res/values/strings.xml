@@ -1,6 +1,4 @@
-<resources>
-    <string name="app_name">AdPlaceService</string>
-
-    <string name="dummy_button">Dummy Button</string>
-    <string name="dummy_content">DUMMY\nCONTENT</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">OSM Offline</string>
+    <string name="atlas_not_available">Не удалось загрузить атлас</string>
 </resources>
