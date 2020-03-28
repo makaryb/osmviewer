@@ -4,17 +4,5 @@
     <string name="version">1.0</string>
     <bool name="show_hash">false</bool>
     <!-- UI settings -->
-    <integer name="notification_show_time">3000</integer>
     <integer name="service_manager_update_time">50</integer>
-    <integer name="ui_hide_status_bar_time">2000</integer>
-    <!-- UI config-->
-    <bool name="show_debug_toasts">true</bool>
-    <!-- Log settings -->
-    <!-- ERR,WARN,INFO,DEBUG,TRACE,ALL,OFF; default OFF -->
-    <string name="log_level">ALL</string>
-    <string name="log_file_name">ApplicationLog.txt</string>
-    <string name="log_file_path">/com.rtc.drone/files/logs/</string>
-    <string name="data_files_path">/com.rtc.drone/files/</string>
-    
-    <bool name="remote">false</bool>
 </resources>

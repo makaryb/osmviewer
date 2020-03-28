@@ -49,7 +49,6 @@ public abstract class AtlasProvider {
     private static String[] atlasFolders() {
         File[] storages = MainActivity.getInstance().getExternalFilesDirs(null); //Нужен контекст, этот подходит
         String external = storages[0].toString();
-        //    /storage/emulated/0/Android/data/com.rtc.drone/files
         external = external.substring(0, external.lastIndexOf('/'));
         external = external.substring(0, external.lastIndexOf('/'));
         external = external.substring(0, external.lastIndexOf('/'));
